@@ -1,0 +1,14 @@
+{
+"test":
+{
+"name": "test",
+"env": "prod",
+"exclude": "test-test,xyz-load"
+},
+"prod":
+{
+"name": "prod",
+"env": "prod",
+"exclude": "prod-load"
+}
+}
